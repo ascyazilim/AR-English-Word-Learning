@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="IMAG0464" size="10.000000 17.837837" />
+    <ImageTarget name="elmav3" size="10.000000 10.000000" />
+    <ImageTarget name="armut9f1788f8c165ed874125229327ed0bff" size="10.000000 13.700000" />
+    <ImageTarget name="elma" size="10.000000 13.716012" />
+    <ImageTarget name="aslan" size="10.000000 10.000000" />
+    <ImageTarget name="at" size="10.000000 5.625000" />
+    <ImageTarget name="1_org_zoom" size="10.000000 14.987952" />
+    <ImageTarget name="catsiyah" size="10.000000 10.364372" />
+    <ImageTarget name="ytAsc" size="10.000000 7.142857" />
+    <ImageTarget name="kedi5" size="1.000000 0.504658" />
+  </Tracking>
+</QCARConfig>
